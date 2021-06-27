@@ -5,7 +5,3 @@ Flutter mimarisini ve bir uygulamanin nasil olusturulmasi gerektigini pratik yap
 ## Kaynakca
 
 Takip ettigim egitim serisi: [Flutter Architecture Template](https://www.youtube.com/playlist?list=PL1k5oWAuBhgV_XnhMSyu2YLZMZNGuD0Cv)
-
-## Not
-
-"develop" branch altinda calisiyorum
